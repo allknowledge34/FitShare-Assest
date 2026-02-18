@@ -8,7 +8,7 @@ This project demonstrates how real production mobile apps are built from scratch
 
 ---
 
-![Demo App](/mobile/assets/images/maxresdefault-21.jpg)
+![Demo App](Mobile/assets/images/maxresdefault-21.jpg)
 
 ---
 
